@@ -25,7 +25,7 @@
   "homepage": "https://github.com/axetroy/customer-service-machine-learning#readme",
   "dependencies": {
     "chalk": "^2.3.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.11",
     "natural": "^0.5.4",
     "pinyin": "^2.8.3",
     "segment": "^0.1.3"
