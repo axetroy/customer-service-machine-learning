@@ -26,7 +26,7 @@
   "dependencies": {
     "chalk": "^2.3.0",
     "lodash": "^4.17.4",
-    "natural": "^0.5.4",
+    "natural": "^5.1.11",
     "pinyin": "^2.8.3",
     "segment": "^0.1.3"
   },
